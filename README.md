@@ -1,2 +1,2 @@
 # Cultour
-A supervised fine-tuning dataset tailored to the culture and tourism domain.
+A supervised fine-tuning dataset for the culture and tourism domain.
