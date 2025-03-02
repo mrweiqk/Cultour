@@ -2,6 +2,7 @@
 A supervised fine-tuning dataset for the culture and tourism domain.
 #
 #
+Please support us：
 ```
 @article{wei2024tourllm,
   title={Tourllm: Enhancing llms with tourism knowledge},
